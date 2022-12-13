@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1670933184445" clover="3.2.0">
+  <project timestamp="1670933184445" name="All files">
+    <metrics statements="25" coveredstatements="20" conditionals="4" coveredconditionals="2" methods="9" coveredmethods="4" elements="38" coveredelements="26" complexity="0" loc="25" ncloc="25" packages="1" files="2" classes="2"/>
+    <file name="App.js" path="/Users/ramanathanm/Coder/RNDropdownPopover/App.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="1"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="51" count="1" type="stmt"/>
+    </file>
+    <file name="RNDropdownPopover.js" path="/Users/ramanathanm/Coder/RNDropdownPopover/RNDropdownPopover.js">
+      <metrics statements="22" coveredstatements="17" conditionals="4" coveredconditionals="2" methods="6" coveredmethods="3"/>
+      <line num="12" count="2" type="stmt"/>
+      <line num="13" count="2" type="stmt"/>
+      <line num="15" count="2" type="stmt"/>
+      <line num="27" count="2" type="stmt"/>
+      <line num="28" count="1" type="stmt"/>
+      <line num="36" count="1" type="stmt"/>
+      <line num="38" count="1" type="stmt"/>
+      <line num="40" count="1" type="stmt"/>
+      <line num="42" count="1" type="stmt"/>
+      <line num="44" count="1" type="stmt"/>
+      <line num="45" count="0" type="stmt"/>
+      <line num="52" count="1" type="stmt"/>
+      <line num="53" count="1" type="stmt"/>
+      <line num="60" count="1" type="stmt"/>
+      <line num="61" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="62" count="0" type="stmt"/>
+      <line num="64" count="1" type="stmt"/>
+      <line num="68" count="1" type="stmt"/>
+      <line num="76" count="0" type="stmt"/>
+      <line num="83" count="0" type="stmt"/>
+      <line num="84" count="0" type="stmt"/>
+      <line num="114" count="2" type="stmt"/>
+    </file>
+  </project>
+</coverage>
